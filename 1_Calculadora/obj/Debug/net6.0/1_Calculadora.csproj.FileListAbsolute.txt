@@ -1,0 +1,15 @@
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\bin\Debug\net6.0\1_Calculadora.exe
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\bin\Debug\net6.0\1_Calculadora.deps.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\bin\Debug\net6.0\1_Calculadora.runtimeconfig.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\bin\Debug\net6.0\1_Calculadora.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\bin\Debug\net6.0\1_Calculadora.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\obj\Debug\net6.0\1_Calculadora.csproj.AssemblyReference.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\obj\Debug\net6.0\1_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\obj\Debug\net6.0\1_Calculadora.AssemblyInfoInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\obj\Debug\net6.0\1_Calculadora.AssemblyInfo.cs
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\obj\Debug\net6.0\1_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\obj\Debug\net6.0\1_Calculadora.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\obj\Debug\net6.0\refint\1_Calculadora.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\obj\Debug\net6.0\1_Calculadora.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\obj\Debug\net6.0\1_Calculadora.genruntimeconfig.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\1_Calculadora\obj\Debug\net6.0\ref\1_Calculadora.dll
