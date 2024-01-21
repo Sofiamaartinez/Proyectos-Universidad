@@ -1,0 +1,15 @@
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea2-EjerciciosMenu.exe
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea2-EjerciciosMenu.deps.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea2-EjerciciosMenu.runtimeconfig.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea2-EjerciciosMenu.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea2-EjerciciosMenu.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea2-EjerciciosMenu.csproj.AssemblyReference.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea2-EjerciciosMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea2-EjerciciosMenu.AssemblyInfoInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea2-EjerciciosMenu.AssemblyInfo.cs
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea2-EjerciciosMenu.csproj.CoreCompileInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea2-EjerciciosMenu.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\refint\Tarea2-EjerciciosMenu.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea2-EjerciciosMenu.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea2-EjerciciosMenu.genruntimeconfig.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\ref\Tarea2-EjerciciosMenu.dll

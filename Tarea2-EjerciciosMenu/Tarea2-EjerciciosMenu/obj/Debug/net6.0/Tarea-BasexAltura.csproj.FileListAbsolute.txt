@@ -1,0 +1,15 @@
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea-BasexAltura.exe
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea-BasexAltura.deps.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea-BasexAltura.runtimeconfig.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea-BasexAltura.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea-BasexAltura.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-BasexAltura.csproj.AssemblyReference.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-BasexAltura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-BasexAltura.AssemblyInfoInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-BasexAltura.AssemblyInfo.cs
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-BasexAltura.csproj.CoreCompileInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-BasexAltura.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\refint\Tarea-BasexAltura.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-BasexAltura.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-BasexAltura.genruntimeconfig.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\ref\Tarea-BasexAltura.dll

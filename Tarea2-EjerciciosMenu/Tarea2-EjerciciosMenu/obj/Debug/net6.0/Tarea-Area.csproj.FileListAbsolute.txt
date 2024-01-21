@@ -1,0 +1,15 @@
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-Area.csproj.AssemblyReference.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-Area.AssemblyInfoInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-Area.AssemblyInfo.cs
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-Area.csproj.CoreCompileInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea-Area.exe
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea-Area.deps.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea-Area.runtimeconfig.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea-Area.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\bin\Debug\net6.0\Tarea-Area.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-Area.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\refint\Tarea-Area.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-Area.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\Tarea-Area.genruntimeconfig.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea2-EjerciciosMenu\Tarea2-EjerciciosMenu\obj\Debug\net6.0\ref\Tarea-Area.dll
