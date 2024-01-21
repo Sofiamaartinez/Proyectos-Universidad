@@ -1,0 +1,15 @@
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\bin\Debug\net6.0\TareaDivisas.exe
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\bin\Debug\net6.0\TareaDivisas.deps.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\bin\Debug\net6.0\TareaDivisas.runtimeconfig.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\bin\Debug\net6.0\TareaDivisas.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\bin\Debug\net6.0\TareaDivisas.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\obj\Debug\net6.0\TareaDivisas.csproj.AssemblyReference.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\obj\Debug\net6.0\TareaDivisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\obj\Debug\net6.0\TareaDivisas.AssemblyInfoInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\obj\Debug\net6.0\TareaDivisas.AssemblyInfo.cs
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\obj\Debug\net6.0\TareaDivisas.csproj.CoreCompileInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\obj\Debug\net6.0\TareaDivisas.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\obj\Debug\net6.0\refint\TareaDivisas.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\obj\Debug\net6.0\TareaDivisas.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\obj\Debug\net6.0\TareaDivisas.genruntimeconfig.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\TareaDivisas\TareaDivisas\obj\Debug\net6.0\ref\TareaDivisas.dll
