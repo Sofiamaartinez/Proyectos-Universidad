@@ -1,0 +1,15 @@
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\bin\Debug\net6.0\SerieFibonacci.exe
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\bin\Debug\net6.0\SerieFibonacci.deps.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\bin\Debug\net6.0\SerieFibonacci.runtimeconfig.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\bin\Debug\net6.0\SerieFibonacci.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\bin\Debug\net6.0\SerieFibonacci.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\obj\Debug\net6.0\SerieFibonacci.csproj.AssemblyReference.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\obj\Debug\net6.0\SerieFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\obj\Debug\net6.0\SerieFibonacci.AssemblyInfoInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\obj\Debug\net6.0\SerieFibonacci.AssemblyInfo.cs
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\obj\Debug\net6.0\SerieFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\obj\Debug\net6.0\SerieFibonacci.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\obj\Debug\net6.0\refint\SerieFibonacci.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\obj\Debug\net6.0\SerieFibonacci.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\obj\Debug\net6.0\SerieFibonacci.genruntimeconfig.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\SerieFibonacci\SerieFibonacci\obj\Debug\net6.0\ref\SerieFibonacci.dll
