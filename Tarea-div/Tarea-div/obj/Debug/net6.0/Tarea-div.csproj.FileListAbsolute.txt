@@ -1,0 +1,15 @@
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\bin\Debug\net6.0\Tarea-div.exe
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\bin\Debug\net6.0\Tarea-div.deps.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\bin\Debug\net6.0\Tarea-div.runtimeconfig.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\bin\Debug\net6.0\Tarea-div.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\bin\Debug\net6.0\Tarea-div.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\obj\Debug\net6.0\Tarea-div.csproj.AssemblyReference.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\obj\Debug\net6.0\Tarea-div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\obj\Debug\net6.0\Tarea-div.AssemblyInfoInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\obj\Debug\net6.0\Tarea-div.AssemblyInfo.cs
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\obj\Debug\net6.0\Tarea-div.csproj.CoreCompileInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\obj\Debug\net6.0\Tarea-div.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\obj\Debug\net6.0\refint\Tarea-div.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\obj\Debug\net6.0\Tarea-div.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\obj\Debug\net6.0\Tarea-div.genruntimeconfig.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-div\Tarea-div\obj\Debug\net6.0\ref\Tarea-div.dll
