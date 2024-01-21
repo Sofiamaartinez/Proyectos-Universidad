@@ -1,0 +1,13 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: Proyecto: Menu5programas, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\Program5progra.cs(155,53,155,63): warning CS0168: La variable 'dolaresCan' se ha declarado pero nunca se usa
+1>C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\Program5progra.cs(12,25,12,35): warning CS0168: La variable 'opcionMenu' se ha declarado pero nunca se usa
+1>C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\Program5progra.cs(13,28,13,36): warning CS0168: La variable 'División' se ha declarado pero nunca se usa
+1>C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\Program5progra.cs(13,38,13,43): warning CS0168: La variable 'Areas' se ha declarado pero nunca se usa
+1>C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\Program5progra.cs(13,45,13,49): warning CS0168: La variable 'Raíz' se ha declarado pero nunca se usa
+1>C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\Program5progra.cs(13,51,13,56): warning CS0168: La variable 'Serie' se ha declarado pero nunca se usa
+1>C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\Program5progra.cs(13,58,13,69): warning CS0168: La variable 'Calculadora' se ha declarado pero nunca se usa
+1>Menu5programas -> C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\bin\Debug\net6.0\Menu5programas.dll
+1>Compilación del proyecto "Menu5programas.csproj" terminada.
+========== Compilación: 1 correctos, 0 dieron error, 0 actualizados, 0 omitidos ==========

@@ -1,0 +1,15 @@
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\obj\Debug\net6.0\Menu5programas.csproj.AssemblyReference.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\obj\Debug\net6.0\Menu5programas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\obj\Debug\net6.0\Menu5programas.AssemblyInfoInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\obj\Debug\net6.0\Menu5programas.AssemblyInfo.cs
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\obj\Debug\net6.0\Menu5programas.csproj.CoreCompileInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\bin\Debug\net6.0\Menu5programas.exe
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\bin\Debug\net6.0\Menu5programas.deps.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\bin\Debug\net6.0\Menu5programas.runtimeconfig.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\bin\Debug\net6.0\Menu5programas.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\bin\Debug\net6.0\Menu5programas.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\obj\Debug\net6.0\Menu5programas.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\obj\Debug\net6.0\refint\Menu5programas.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\obj\Debug\net6.0\Menu5programas.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\obj\Debug\net6.0\Menu5programas.genruntimeconfig.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Menu5programas\Menu5programas\obj\Debug\net6.0\ref\Menu5programas.dll
