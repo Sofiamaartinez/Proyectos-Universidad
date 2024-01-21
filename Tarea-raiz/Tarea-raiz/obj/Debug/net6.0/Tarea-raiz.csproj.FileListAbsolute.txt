@@ -1,0 +1,15 @@
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\bin\Debug\net6.0\Tarea-raiz.exe
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\bin\Debug\net6.0\Tarea-raiz.deps.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\bin\Debug\net6.0\Tarea-raiz.runtimeconfig.json
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\bin\Debug\net6.0\Tarea-raiz.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\bin\Debug\net6.0\Tarea-raiz.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\obj\Debug\net6.0\Tarea-raiz.csproj.AssemblyReference.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\obj\Debug\net6.0\Tarea-raiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\obj\Debug\net6.0\Tarea-raiz.AssemblyInfoInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\obj\Debug\net6.0\Tarea-raiz.AssemblyInfo.cs
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\obj\Debug\net6.0\Tarea-raiz.csproj.CoreCompileInputs.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\obj\Debug\net6.0\Tarea-raiz.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\obj\Debug\net6.0\refint\Tarea-raiz.dll
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\obj\Debug\net6.0\Tarea-raiz.pdb
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\obj\Debug\net6.0\Tarea-raiz.genruntimeconfig.cache
+C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\obj\Debug\net6.0\ref\Tarea-raiz.dll

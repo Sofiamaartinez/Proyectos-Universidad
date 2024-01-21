@@ -1,0 +1,5 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: Proyecto: Tarea-raiz, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>Tarea-raiz -> C:\Users\sofi9\OneDrive\Documents\Programacion_Local\Tareas\Tarea-raiz\Tarea-raiz\bin\Debug\net6.0\Tarea-raiz.dll
+========== Compilación: 1 correctos, 0 dieron error, 0 actualizados, 0 omitidos ==========
